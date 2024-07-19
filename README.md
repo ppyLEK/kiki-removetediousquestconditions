@@ -1,3 +1,5 @@
+Originally created by kikirio / kieran-boyle
+
 # Mod RemoveTediousQuestConditions
 
 This mod gives you a config file which enables you to remove certain requirements from quests.
