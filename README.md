@@ -1,4 +1,5 @@
 Originally created by kikirio / kieran-boyle
+'Updated' to 3.9.X by ppyLEK
 
 # Mod RemoveTediousQuestConditions
 
